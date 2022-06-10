@@ -1,0 +1,37 @@
+30
+analytical writing:
+analyze issue, argument tasks, 30 min each
+issue: agree or disagree, taking a position, provide evidence
+argument: logical soundness, assessing its claims, evaluate evidence it provides
+
+31
+https://www.ets.org/gre/revised_general/prepare/analytical_writing
+
+37
+sample issue task:
+as people rely more and more on technology to solve problems,
+the ability of humans to think for themselves will 
+surely deteriorate
+
+agree
+- reliance on tech leads to dependency; rely on problem solving
+tech to such a degree that when they fail, we are in worse
+shape than if we didn't have them in the first place 
+- everyday tech such as calculators and cash registers 
+have decreased our ability to perform simple calculations,
+a "use it or lose it" approach to thinking ability
+
+disagree
+- developing, implementing, and using tech require problem solving
+- tech free us from mundane problem solving (calculations) 
+and allow us to engage in more complex thinking
+- tech is dependent on human ability to think and make choices
+
+middle ground
+- enable complex problem solving to thrive while diminish data maintenance
+- value or detriment of relying on tech is determined by the individual (or society) using it
+or that only those who develop tech (i.e., technical specialists) are maintaining their problem solving skills,
+while the rest are losing them
+
+sample response
+- common occurrence inconceivable before
