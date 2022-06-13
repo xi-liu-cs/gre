@@ -38,3 +38,13 @@ sample response
 
 48
 argument task
+- evidence, support, proof
+  needed evidence to evaluate (strengthen or weaken) the argument
+- stated, claimed, concluded
+  alternative explanations that could rival the proposed explanation
+- assumed or supposed without justification or proof
+  implications for the argument if assumptions prove unwarranted (not justified or authorized)
+- not stated, but necessarily follows from stated
+  
+54
+sample arg task
