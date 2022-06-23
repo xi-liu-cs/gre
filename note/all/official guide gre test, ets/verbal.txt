@@ -10,3 +10,66 @@ art for rock listeners
   !a, !discussion about listener's attitude
 2. a, c
 3. last sentence
+
+80
+single correct answer
+think up own words for blanks
+do not assume first blank is one should be filled first
+
+81
+1
+(1) a, overshadowed
+(2) e, obscure
+(3) i, superficial
+/* overshadow = tower above and cast a shadow over, appear more important than 掩盖, 遮蔽, 使黯然失色
+invalidate = make unsound or erroneous 使无效
+plausibility = quality of seeming reasonable or probable 合理性, 似然性 */
+
+2
+(1) b, eminence
+(2) d, tumultuous
+/* temperance = abstinence from alcoholic drink 节制, 节欲
+notoriety = state of being famous or for some bad quality or deed 恶名 
+eminence = fame or recognized superiority, especially within a particular sphere or profession 卓越, 著名, 显赫
+tumultous = excited, confused, or disorderly, loud, confused noise; uproarious 喧嚣, 动荡, 狂暴
+providential = occurring at a favorable time; opportune, involving divine foresight or intervention 凑巧, 及时, 幸运
+dispassionate = rational, impartial 冷静 */
+
+3
+b. imperceptibly
+/* landfast = attached to or grounded on shore or land 附着于陆地的
+grade = pass gradually from one level, especially a shade of color, into another 渐变
+imperceptible = impossible to perceive (become aware or conscious, realize, or understand) 不易察觉 */
+
+85
+1
+c, original
+f, innovative
+
+2
+d, exacerbated
+f, worsened
+/* technocracy = government or control of society or industry by an elite of technical experts 技术官僚 */
+
+88
+set 1
+1e
+2a
+3b
+4i a surprising (portrait more in family photo than high art), !b
+ i2 e
+5i a
+ i2 e
+6 a d
+7 b d
+8 c d (despite use of pesticides), !b !e
+
+91
+set 2
+1b
+/* presume = suppose that something is the case on the basis of probability
+milieu = a person's social environment 社会环境 */
+2 from then on ... pianist and conductor
+3c
+4d
+5e
