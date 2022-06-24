@@ -87,5 +87,9 @@ set 3
 ethnomusicology = study of the music of different cultures 民族音乐学 
 didactic = intended to teach, particularly in having moral instruction as an ulterior motive, in the manner of a teacher, particularly so as to treat someone in a patronizing way 说教, 教诲, 教导, 好教训人 
 iconoclasm = action of attacking or assertively rejecting cherished beliefs and institutions or established 打破旧习, 破坏偶像, 破坏偶像 */
-3i 
- i2
+3i c 
+ i2 d
+/* polemical = critical, controversial, or disputatious writing or speech 好辩, 好争论, 挑起论战 
+smoke screen = a cloud of smoke created to conceal military operations 烟幕 
+interchangeable = apparently identical; very similar */
+4i   
