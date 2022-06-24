@@ -72,4 +72,20 @@ milieu = a person's social environment 社会环境 */
 2 from then on ... pianist and conductor
 3c
 4d
-5e
+5e, !b since popularity is not discussed
+6b
+7d
+8b
+9d
+
+95
+set 3
+1b
+2i c
+ i2 d 
+/* acumen = ability to make good judgments and quick decisions 敏锐
+ethnomusicology = study of the music of different cultures 民族音乐学 
+didactic = intended to teach, particularly in having moral instruction as an ulterior motive, in the manner of a teacher, particularly so as to treat someone in a patronizing way 说教, 教诲, 教导, 好教训人 
+iconoclasm = action of attacking or assertively rejecting cherished beliefs and institutions or established 打破旧习, 破坏偶像, 破坏偶像 */
+3i 
+ i2
