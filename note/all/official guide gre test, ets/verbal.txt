@@ -81,15 +81,43 @@ milieu = a person's social environment 社会环境 */
 95
 set 3
 1b
-2i c
+2i a reverence = deep respect for someone or something 尊敬, !c
  i2 d 
 /* acumen = ability to make good judgments and quick decisions 敏锐
 ethnomusicology = study of the music of different cultures 民族音乐学 
 didactic = intended to teach, particularly in having moral instruction as an ulterior motive, in the manner of a teacher, particularly so as to treat someone in a patronizing way 说教, 教诲, 教导, 好教训人 
 iconoclasm = action of attacking or assertively rejecting cherished beliefs and institutions or established 打破旧习, 破坏偶像, 破坏偶像 */
 3i c 
- i2 d
+ i2 e, dissimilar = different 
+    'different' transition to 'yet hide important differences'
+    !d
 /* polemical = critical, controversial, or disputatious writing or speech 好辩, 好争论, 挑起论战 
 smoke screen = a cloud of smoke created to conceal military operations 烟幕 
 interchangeable = apparently identical; very similar */
-4i   
+4i c, !b
+ i2 e
+ i3 h
+bear = carry the weight of
+bearing on = affect or influence a decision 影响
+come through = become apparent or noticeable through actions or performance, succeed in surviving or dealing with an illness or ordeal 安然渡过(危险或难关), 成功地完成, 到来
+5i a
+ i2 f   
+ i3 h
+verifiable = able to be checked or demonstrated to be true, accurate, or justified
+corroborate = confirm or give support 证实
+debunk = expose the falseness or hollowness of (a myth, idea, or belief) 揭穿(…的真相), 驳斥, 批判
+bogus = not genuine or true, fake 虚假
+6 a f
+exacting = making great demands on one's skill, attention, or other resources 严格
+acerbic = sharp and forthright 尖酸
+scathing = witheringly scornful, severely critical 刻薄
+meticulous = showing great attention to detail, very careful and precise 精细
+7 c f
+stingy = unwilling to give or spend, ungenerous 小气
+diffidence = modesty or shyness resulting from a lack of self-confidence 不自信
+illiberality = stubborn or intolerant adherence to one's opinions or prejudices 吝啬, 狭隘, 小气
+thrift = quality of using money and other resources carefully and not wastefully 节约
+8 a f
+convoluted = extremely complex and difficult to follow 错综复杂
+involved = difficult to comprehend; complicated 复杂难解
+engaged = busy, occupied
