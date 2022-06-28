@@ -134,3 +134,18 @@ ideology = a system of ideas and ideals 思想体系
 
 zooplankton = organisms drifting in oceans, seas, and bodies of fresh water 浮游动物
 3 b
+
+100
+egalitarian = all people are equal and deserve equal rights and opportunities 平等主义
+iconoclastic = attack on cherished beliefs or institutions 反传统 批评传统信仰
+mercurial = subject to sudden or unpredictable changes of mood or mind 易变
+plutocratic = government by wealthy 富豪政治
+inordinate = unusually or disproportionately large, excessive 非常
+wealth & poverty are unchanging
+wealthy not self made, inherited family fortunes
+great fortunes survived financial panics that destroyed smaller ones
+
+4 d
+5 e
+
+ecology = branch of biology that deals with the relations of organisms to one another and to their physical surroundings 社会生态
