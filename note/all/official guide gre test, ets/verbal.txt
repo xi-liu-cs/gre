@@ -165,9 +165,22 @@ arousal stimulates hormones: herbivore fear, carnivore aggression
 
 104
 set 5
-1 e
-2 a f
-3 c f
+1 d, !e
+for some time now, disinterestedness has been presumed not to exist: the cynical
+conviction that everybody has an angle is considered wisdom
+everybody has an angle (bias, 偏向, 偏爱) = concerned with her own interests
+'not to exist', !interest = disinterestedness
+
+2 b, !a, public demand (insist on having)
+f
+
+3 a, !c, belie = contradict, reckless = !wary
+f
+
 4 c f h
+
 5 c e h
 6 b e g
+7 b e
+8 a d
+9 e f
