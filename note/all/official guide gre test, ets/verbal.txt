@@ -177,9 +177,18 @@ f
 3 a, !c, belie = contradict, reckless = !wary
 f
 
-4 c f h
+4 c 
+d, !f, ample output = !penitential austerity
+h
 
-5 c e h
+5 b, !c
+d, !e 
+i, !h
+people who think environment bolster financial performance accept claims that systems are valuable tools
+bolster = valuable
+people who think environment peripheral to financial succesws view systems as extraneous
+peripheral = extraneous
+
 6 b e g
 7 b e
 8 a d
