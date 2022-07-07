@@ -200,3 +200,13 @@ so electorate 选民 are restive (烦躁, unable to keep still or silent), skitt
 108
 set 6
 1 e
+farmer.rate < all.rate
+let f be set containing farmers, 
+a be set containing all
+f subset a
+rate can only be seen as farmer(t = 1880) / farmer(t = 1850) < all(t = 1880) / all(t = 1850)
+cannot see it as d people / dt, since should be d farmer / dt < d all / dt 
+so proportion of farmers in all population cannot increase
+
+2
+crop: soviet.yield = 0.68 us.yield
