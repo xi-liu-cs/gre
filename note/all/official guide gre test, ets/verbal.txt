@@ -209,4 +209,10 @@ cannot see it as d people / dt, since should be d farmer / dt < d all / dt
 so proportion of farmers in all population cannot increase
 
 2
-crop: soviet.yield = 0.68 us.yield
+planted: soviet.yield = 0.68 us.yield
+total = planted + fallow 休耕的: soviet.yield = 1.14 us.yield
+
+sv.plant < us.plant
+sv.tot > us.tot
+sv.plant + sv.fallow > us.plant + us.fallow
+sv.fallow > us.fallow
