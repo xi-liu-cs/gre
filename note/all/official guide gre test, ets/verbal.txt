@@ -209,10 +209,11 @@ cannot see it as d people / dt, since should be d farmer / dt < d all / dt
 so proportion of farmers in all population cannot increase
 
 2
-planted: soviet.yield = 0.68 us.yield
-total = planted + fallow 休耕的: soviet.yield = 1.14 us.yield
-
-sv.plant < us.plant
-sv.tot > us.tot
-sv.plant + sv.fallow > us.plant + us.fallow
-sv.fallow > us.fallow
+fallow 休耕的
+su := soviet union
+crop / planted: su < us
+crop / (planted + fallow): su > us
+since crop yield do not change, su should have a smaller denominator than us, su has less fallow than us
+fallow / (planted + fallow): su < us
+苏联没有利用到那些土地很少, 要少于美国
+!c, c是一个绝对值上的量，但这题你用的关键词是per acre, 是一个单位的一个产出的比较, 不是绝对值量
