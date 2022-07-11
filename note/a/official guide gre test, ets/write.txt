@@ -1,0 +1,107 @@
+30
+analytical writing:
+analyze issue, argument tasks, 30 min each
+issue: agree or disagree, taking a position, provide evidence
+argument: logical soundness, assessing its claims, evaluate evidence it provides
+
+31
+https://www.ets.org/gre/revised_general/prepare/analytical_writing
+
+37
+sample issue task:
+as people rely more and more on technology to solve problems,
+the ability of humans to think for themselves will 
+surely deteriorate
+
+agree
+- reliance on tech leads to dependency; rely on problem solving
+tech to such a degree that when they fail, we are in worse
+shape than if we didn't have them in the first place 
+- everyday tech such as calculators and cash registers 
+have decreased our ability to perform simple calculations,
+a "use it or lose it" approach to thinking ability
+
+disagree
+- developing, implementing, and using tech require problem solving
+- tech free us from mundane problem solving (calculations) 
+and allow us to engage in more complex thinking
+- tech is dependent on human ability to think and make choices
+
+middle ground
+- enable complex problem solving to thrive while diminish data maintenance
+- value or detriment of relying on tech is determined by the individual (or society) using it
+or that only those who develop tech (i.e., technical specialists) are maintaining their problem solving skills,
+while the rest are losing them
+
+sample response
+- common occurrence inconceivable before
+
+48
+argument task
+- evidence, support, proof
+  needed evidence to evaluate (strengthen or weaken) the argument
+- stated, claimed, concluded
+  alternative explanations that could rival the proposed explanation
+- assumed or supposed without justification or proof
+  implications for the argument if assumptions prove unwarranted (not justified or authorized)
+- not stated, but necessarily follows from stated
+  
+54
+sample arg task
+water sports favorite activity
+complaints about quality, smell of river
+devote more money to riverside recreational facilities
+
+55, 56
+- assumption that people who rank water sports "among their favorite recreational activities"
+are actually likely to participate in them (possible just like to watch them)
+- assumption that what residents say in surveys can be taken at face value (面值, superficial appearance)
+- assumption that residents want to do water sports in river (possible that water sports 
+are regarded as pursuits for vacations & weekends away from city)
+- assumption that park department devoting little of its budget to maintaining recreational 
+facilities means facilities are inadequately maintained
+- assumption that riverside recreational facilities are facilities designed for people
+who participate in water sports and not some other recreational pursuit
+- assumption that dirtiness of river is cause of being little used, cleaning river
+sufficient to increase recreational use of river
+- assumption that complaints about river are numerous and significant
+- assumption that state's cleanup occur soon enough to require adjustments
+to this year's budget
+if assumption prove unwarranted, implications are:
+logic of argument falls apart/invalid/unsound
+state/city spending their funds unnecessarily
+
+57
+author's arg does not make cogent (说服力, clear, logical, convincing) case for increased resources
+easy to understand why cleaner river, but arg is rife (widespread) with holes and assumptions, not strong enough to lead to increased funding
+
+love of water sports. scope and validity not clear. survey could have asked residents if they prefer
+using river for water sports or would like to see a hydroelectric (水力发电, generation of electricity using flowing water to drive a turbine 涡轮 that powers a generator) dam built, which may have swayed residents toward river sports. unless fully representative, valid, and reliable, it cannot be used to effectively back author's arg
+
+concrete connection between resident's lack of river use and river's 
+current state is not effectively made
+though have been complaints, do not know if numerous complaints from
+a wide range of people, or one or two individuals who made numerous complaints
+tenous (纤细, very weak or slight) connection between complaints and limited use
+to strengthen arg, implement a normed survey
+
+author suggests river clean up result in increased water usage
+true only if river's water quality and smell result from problems which can be cleaned
+if decreased water quality and aroma caused by pollution by factories, conceivably could be remedied
+but if quality and aroma results from natural mineral deposits in the water
+or surrounding rock, may smell of sulphur 硫磺 due to geography. not affected by clean-up
+no effective connection between water quality and river usage
+
+clean beautiful river adds property values, leads to increased tourism and revenue
+
+60
+questionable assumptions:
+- survey provides a reliable basis for budget planning
+- river's pollution and odor only reasons for limited recreational use
+- effort clean water and remove odor will succeed 
+- cleaning river increase recreational usage
+- state plans to clean to river will actually be realized (can imagine misuse of funds 
+in renovating riverside facilities only to watch new buildings fall into
+dilapidation (破旧不堪, process of falling into decay or disrepair) while state drags river clean-up)
+- city can afford to spend more on recreation
+- existing facilities along river need more funding, making more money for themselves
