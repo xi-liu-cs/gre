@@ -208,7 +208,7 @@ rate can only be seen as farmer(t = 1880) / farmer(t = 1850) < all(t = 1880) / a
 cannot see it as d people / dt, since should be d farmer / dt < d all / dt 
 so proportion of farmers in all population cannot increase
 
-2
+2 a
 fallow 休耕的
 su := soviet union
 crop / planted: su < us
@@ -217,3 +217,29 @@ since crop yield do not change, su should have a smaller denominator than us, su
 fallow / (planted + fallow): su < us
 苏联没有利用到那些土地很少, 要少于美国
 !c, c是一个绝对值上的量，但这题你用的关键词是per acre, 是一个单位的一个产出的比较, 不是绝对值量
+
+/* hot desert & seawater
+greenhouse design
+front wall of perforated 穿孔 cardboard moistened by seawater
+cool humid air accelerate plant growth
+trap solar heat between 2 layers */
+
+3 b c
+!a, heated air drawn down, !rise
+b, oriented to prevailing wind (2)
+c, air absorbs more moisture before cooled off again (last)
+
+4 a b c
+a, avoid intense solar = 'reflect infrared light outward'
+b, entry sunlight plant grow = 'allows visible sunlight in'
+c, mix heated with greenhouse air enhance moisture = 'heat mix greenhouse, collection irrigation'
+
+/* 2nd part is counterpoint that comments on 1st part 
+complex narrators, time shifts 
+attempt unify novel diverse elements */
+
+5 d, 1st part more romantic confirmation
+6 b, high degree of authorial awareness
+7 b, !inflexible = flexible = (rigidity in interpretation is danger)
+!a, !indicate unification of diff elements is to be avoided in interpretation generally
+8 b
