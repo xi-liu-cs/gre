@@ -1,0 +1,15 @@
+186
+which of following could be unit digits of 57 ^ n, where n is a positive integer?
+unit digit = 个位数 = rightmost digit
+57 ^ n unit digit = 7 ^ n unit digit
+57 ^ n = 7 ^ n  mod 10
+since
+57 ^ 2 = 3249, 7 ^ 2 = 49    
+57 ^ 3 = 185193, 7 ^ 3 = 343 
+57 ^ 4 = 10556001, 7 ^ 4 = 2401
+so unit digit = 7, 9, 3, 1
+repeat
+7 ^ 5 = 16807
+7 ^ 6 = 117649
+7 ^ 7 = 823543
+...
