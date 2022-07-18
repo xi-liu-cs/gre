@@ -449,3 +449,35 @@ b, 25sqrt{v} ^ 2 + 10sqrt{v} + 1 = (5sqrt{v} + 1) ^ 2
 since 5sqrt{v} + 1 is int
 c, counterexample, find v that is square of int but 4v ^ 2 + 4sqrt{v} + 1 is not
 v = 4 = 2 ^ 2, 4v ^ 2 + 4sqrt{v} + 1 = 4(16) + 4(2) + 1 = 73 != square of int
+
+21
+what is least positive integer that is not a factor of 25! and is not a prime number?
+all choices divisible by 2, all not prime
+!a, 26 = 2 * 13
+!b, 28 = 2 * 14
+!c, 36 = 2 * 18
+!d, 56 = 4 * 14
+e, 58 = 2 * 29, 29 > 25
+
+23
+dist(op) = r
+h := height of triangle divided by op
+r / 2, h, r is 30-60-90 triangle
+h = (sqrt{3} / 2) r
+
+(r / 2) ^ 2 + h ^ 2 = r ^ 2
+h ^ 2 = r ^ 2 - r ^ 2 / 4
+h ^ 2 = 3 r ^ 2 / 4
+h = (sqrt{3} / 2) r
+
+area = 2(triangle) = 2((r)(h) / 2)
+= rh = (sqrt{3} / 2) r ^ 2
+
+24
+(# ways to choose 2 not defective light) / (# ways to choose 2 light)
+= c(18, 2) / c(20, 2)
+= 153 / 190
+
+p(1st = !defective)p(2nd = !defective)
+= (18 / 20)(17 / 19)
+= 153 / 190
