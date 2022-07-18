@@ -227,3 +227,225 @@ error
 verbal: 34
 math: 32
 159 + 155 = 314
+
+468
+3
+they availed themselves of other forms of expression with metaphorical meaning
+some probably original, some derived from a's coinage
+coinage 新创的词语 invention of a new word or phrase
+invention = creation
+
+7
+lionization of a as 1 of literary giants has thrown spotlight on his peripheral
+activities and served to foreground his efforts as amateur entomologist
+lionize 把(某人)视为名人, 要人对待 give public attention approval, celebrity
+foreground 重要位置 make (something) the most prominent or important feature
+thrown spotlight = called attention = foreground
+
+10
+!a, 'expend reserves on thermoregulation if spend night exposed to wind'
+night != day
+
+12 
+b, line 4 - 5, discussion pf singing cost generally focused on energy costs
+!c, line 7, only discussion of diff across species, increased in energy consumption in a
+but no effect on b
+
+15
+sartorial 裁缝 relating to tailoring, clothes, or style of dress
+worthy of attention != irrelevant, frivolous
+
+16
+undemonstrative 喜怒不形于色, 不流露感情 not tending to express feelings, affection, openly
+panache 神气十足, 潇洒气质 flamboyant confidence of style or manner
+gawky 笨拙 nervously awkward and ungainly
+deflect 偏转, 转移, 转向 cause sth to change direction, orientation, purpose
+finesse 手腕, 策略, 手段, 巧妙地做 intricate and refined delicacy, artful subtlety, tactful difficulty handling
+understatement 轻描淡写, 保守说法, 不充分的叙述, 淡化, 低调说法 presentation of sth as being smaller, worse, or less important than it actually is
+'intensely present & curiously(异样, strange, unusual) detached' = contradictory aspects of dancing
+draws attention in some way not normally be a means of doing so
+only choice is deflect
+'enthusiasm' or 'gawkiness' would not be deflecting attention
+
+17
+ideological 思想体系, 意识形态, 观念形态 based on or relating to a system of ideas and ideals, especially concerning economic or political theory and policy
+strategic 战略性, 根据全局而安排 identification of long-term or overall aims and interests and the means of achieving them, carefully designed or planned to serve particular purpose
+strategic = 'adapts 适应 his political positions at any particular moment to political realities
+that constrain him'
+
+brandish 挥舞 wave or flourish (wave in vigorous way to attract attention) as a threat or in anger or excitement
+flout 公然藐视 无视 嘲笑 openly disregard
+cannot use follow
+if 'follow principles', then cannot betray them, since !follow = betray
+
+21
+choose 2 answer that produce sentences alike(similar) in meaning
+minimal != benign
+innocuous 无害 无危险 not harmful or offensive = benign 温和 良性 mild, not malignant
+
+22
+antedate 早于 = precede
+
+479
+5 
+c, incorrect prediction of co2 concentration
+since co2 absorbed by phytoplankton reenter atmosphere when predator consume them and respire
+
+6
+line 7, 'field tests shown growth does not significantly lower atmospheric co2'
+evidence against martin's hypothesis
+last line explain why hypothesis wrong, predators respire co2
+
+8
+line 3, voltaire writing at desk, light from heaven
+passes through newton to voltaire's collaborator
+collaborate = assistance
+
+18
+energetic 精力充沛 积极 involving great activity or vitality
+inimical 对…有害, 敌意, 不利 tending to obstruct or harm
+'energetic work' could either support assertion that 2 movements are similar
+or undermine assertion that 2 movements are opposed
+
+20
+'more recently entered humans' = insufficient time != ample
+malignant = no time to become benign
+
+21
+last line, higher temperatures of jupiter's moons, closer to sun
+prevented them from acquiring an atmosphere
+
+23
+line 11, explanations assumed primacy only in retrospect != no reason given at time of immigration
+
+493
+9 b
+/* 217
+standard normal distribution
+mean = 0, std dev = 1
+p(0 <= x <= 1) = p(-1 <= x <= 0) = 0.34
+p(1 <= x <= 2) = p(-2 <= x <= -1) = 0.14
+p(x >= 2) = p(x <= -2) = 0.02 */
+(220 - 200) / 10 = 2
+2 std dev alway from mean
+p(x >= 2) = 0.02 = 1 / 50 < 1 / 6
+
+11 b
+b := bio
+n := novel
+4b 0n, 1 way
+3b 1n, c(4, 3)c(6, 1) = 24
+2b 2n, c(4, 2)c(6, 2) = 90
+1 + 24 + 90 = 115
+
+this is wrong
+c(4, 2)c(8, 2) = 168
+since
+b := {1, 2, 3, 4}
+n := {6, 7, 8, 9, 10}
+if {1, 2} are selected from c(4, 2)
+then {3, 6, 7, 8} are selected from c(8, 2)
+it will be counted twice 
+if {1, 3} are selected from c(4, 2)
+then {2, 6, 7, 8} are selected from c(8, 2)
+
+12 121
+total student = 236
+142 took algebra, 121 took chemistry
+took both <= 121
+
+13 c
+2t + 30 = 180
+2t = 150
+t = 75
+
+15 c
+x = price
+7 < 1.04x < 10
+6.731 < x < 9.615
+max tax ~ 9.614 * 0.04 = 0.38456 < 0.45
+
+16 b
+/* (a ^ c)(b ^ c) = (ab) ^ c
+(2 ^ 2)(3 ^ 2) = 4 * 9 = 36 = (2 * 3) ^ 2 */
+1 / ((2 ^ {11})(5 ^ {17}))
+= 1 / ((2 ^ {11})(5 ^ {11})(5 ^ 6))
+= 1 / ((10 ^ {11})(5 ^ 6))
+= (5 ^ {-6})(10 ^ {-11})
+= ((1 / 5) ^ 6)(10 ^ {-11})
+= ((0.2) ^ 6)(10 ^ {-11})
+= ((2 * 10 ^ {-1}) ^ 6)(10 ^ {-11})
+= (2 ^ 6)(10 ^ {-6})(10 ^ {-11})
+= 64 * 10 ^ {-17}
+
+19 b
+2(10 ounce percolated 过滤 coffee) + 12 ounce soft
+= 4(5 ounce coffee) + 12 ounce soft
+= 4(40) + 30
+= 190
+
+23 a d
+equilateral 等边, all sides equal, 3 angles 60 deg
+equilateral -> angle dcb is 60 deg -> triangle a b c is 30-60-90 (x, x * sqrt{3}, 2x)
+-> len(bc) = len(ab) / sqrt(3) = 10
+
+24 18
+a2 = a1 + c
+a3 = a2 + c = a1 + c + c = a1 + 2c
+an = a1 + (n - 1)c
+
+a1 + a3 + a5 = 27
+a1 + (a1 + 2c) + (a1 + 4c) = 27
+3a1 + 6c = 27
+a1 + 2c = 9
+
+a2 + a4 = (a1 + c) + (a1 + 3c) = 2a1 + 4c
+= 2(a1 + 2c) = 2(9) = 18
+
+503
+3 len(ab) is longer
+any diameter is longer than any other chord(a straight line joining the ends of an arc)
+that is not a diameter
+
+4
+(st) ^ 2 = (s ^ 2)(t ^ 2) = 10
+s ^ 2 = 10 / t ^ 2
+
+s = sqrt{10} / t
+s ^ 2 = 10 / t ^ 2
+
+10
+(3 curtain)(1.6 yard / curtain) = 4.8 yard
+can only purchased by full yard
+5 yard need to be purchased
+(5 yard)($8 / yard) = $40
+
+11 a b c
+which statement sufficient info to
+conclude slope of line k negative
+a, x-intercept = 2 * y-intercept, x-int y-int have same sign, slope negative (draw it)
+b, x-int * y-int > 0, same sign, slope negative
+c, slope = (a - r) / (b - s) < 0
+if (a - r) has diff sign with (b - s)
+then (a - r)(b - s) < 0
+
+13 e
+quartile 四分位数 each of 4 equal groups into which a population can be divided
+[...19, 20][21, ..., ] /* 18 people < mark */
+after add 8 people
+[...22][23...] /* 26 people < mark */
+mark = 5th lowest in 2nd quartile
+
+14 13
+dist(in) = 5 + 7 = 12
+dist(out) = 6 + 8 = 14
+12 < int m = 13 < 14
+
+16 a b
+v is square of an int
+sqrt{v} = int
+a, 81sqrt{v} ^ 2 = (9sqrt{v}) ^ 2
+b, 25sqrt{v} ^ 2 + 10sqrt{v} + 1 = (5sqrt{v} + 1) ^ 2
+since 5sqrt{v} + 1 is int
+c, counterexample, find v that is square of int but 4v ^ 2 + 4sqrt{v} + 1 is not
+v = 4 = 2 ^ 2, 4v ^ 2 + 4sqrt{v} + 1 = 4(16) + 4(2) + 1 = 73 != square of int
