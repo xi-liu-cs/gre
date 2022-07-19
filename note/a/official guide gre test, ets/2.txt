@@ -144,7 +144,7 @@ https://www.youtube.com/watch?v=7bqOvVjNOHY */
 9 c
 10 a
 11 72.5
-12 5
+12 c
 13 d
 14 b d e
 15 c
@@ -164,3 +164,29 @@ xy < x^2 */
 669
 error
 6
+11
+21
+
+669
+6 b
+pqr = 5
+pr^2 = (2sqrt{5})^2 + (sqrt{5})^2 = 20 + 5 = 25
+pr = 5
+ps^2 + 3^2 = 25
+ps^2 = 16
+ps = 4
+psr = 1/2 * 3 * 4 = 6
+psr > pqr
+
+11 17.5
+https://www.mathsisfun.com/geometry/parallel-lines.html
+alternate interior angles are equal
+2y = 35
+y = 17.5
+
+21 a f
+|t + 3| > 5
+t + 3 < -5 or t + 3 > 5
+t < -8 or t > 2
+a, -9 < -8
+f, 3 > 2
