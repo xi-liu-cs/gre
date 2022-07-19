@@ -82,3 +82,81 @@ if sleep crucial memory, individual memory deficit
 
 642 
 error
+10
+12
+18
+20
+22
+
+10 a
+'trackway established that sauropods lived in herds'
+trackway: herd behavior
+nesting ground: reproductive behavior
+
+12 a
+line 15: 'there are memory consolidation processes that occur 
+across periods of wakefulness' = process that have nothing to do with sleep
+
+18 a d
+bridle (套缰绳, bring under control) = inhibit (阻碍, 抑制, hinder, restrain, prevent)
+forbid (禁止, refuse to allow) is too strong
+steep prices dissuade casual visitor but not forbid one
+
+20 b
+doubt:
+1. no planet that large could be formed so close to a star
+2. only 1 companion star allowed, but there are 2 other bodies found
+b, a planet formed far from a star and later move closer to it
+!c, whatever relative size and position of 3 bodies, all appear to be too close
+
+22 b c
+line 6, list of earlier works 'by the author' found on title pages
+'by the author' is in quotation marks
+inclusion of works not written by the author in the list
+
+669
+1 c
+2 a
+3 b
+4 d
+5 b (mu = 4.34, med = 5)
+6 a (pqr = 5, psr = 3.67)
+7 b
+/* a
+199 = 1 + (n - 1)2
+198 = 2n - 2
+200 = 2n
+n = 100
+sum = 100(1 + 199) / 2 = 10000
+
+b
+198 = 2 + (n - 1)2
+196 = 2n - 2
+196 = 2n
+n = 98
+sum = 98(2 + 198) / 2 = 9800
+
+a_n = a_1 + (n - 1)d
+sum = n(a_1 + a_n) / 2
+https://www.youtube.com/watch?v=7bqOvVjNOHY */
+
+8 c
+9 c
+10 a
+11 72.5
+12 5
+13 d
+14 b d e
+15 c
+16 b
+17 d
+18 b
+19 a
+20 c (1.5625)
+21 b c d
+22 d
+23 b
+24 e
+/* x < y < 0  mul x, sign change
+xy < x^2 */
+25 13
