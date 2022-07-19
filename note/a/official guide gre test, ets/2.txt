@@ -50,3 +50,35 @@ such sweeping changes at every store
 
 642
 1 a
+2 c
+3 c d
+4 b f
+5 c d
+6 b e h
+7 a f g
+8 a f
+9 b
+10 a b
+
+researcher contend sleep no role in factual memory
+impairment in rapid eye movement sleep continue to lead normal lives
+if sleep crucial memory, individual memory deficit
+
+11 c
+12 e
+13 e
+14 b
+15 a c 
+16 d e
+17 a e
+18 c d
+19 a f
+20 c
+21 a
+22 c
+23 a b
+24 b
+25 c
+
+642 
+error
