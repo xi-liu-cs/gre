@@ -309,3 +309,30 @@ f, 3 > 2
 23 e
 24 b d e
 25 b, (3 / 7)(2 / 6)(1 / 5) = 1 / 35
+
+680
+error
+6
+13
+14
+24
+
+680
+6 d
+(x + 3)(y - 4) = 0
+x = -4 or y = 4
+
+13 a
+begin: 300 * 0.15 = 45
+end: 400 * 0.1 = 40
+change: 45 - 40 = 5
+percent by which num fish dec from begin to end is 5 / 45 = 0.11
+
+14 30
+least common multiple
+lcm(6, 10) = 2 * 3 * 5 = 30
+6 = 2 * 3
+10 = 2 * 5
+
+24 b d
+4 * 7 + 3 = 31 is prime
