@@ -154,7 +154,13 @@ trade with other groups
 
 654
 error 
-
+4
+12
+18
+22
+23
+24
+25
 
 669
 1 c
