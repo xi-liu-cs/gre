@@ -172,9 +172,39 @@ no benefit = superfluous (过剩, 过多, 多余, unnecessary, more than enough)
 line 22, low freq processes = fluctuation in stream flow & groundwater levels
 response to low freq fluctuation = !high
 
-18
+18 d f
 apolitical = !political
 humdrum (单调乏味, lacking excitement or variety, monotonous), dull (迟钝, 无聊, 枯燥, lacking interest, brightness, vividness) = !thriller (惊悚片, 惊险, very exciting contest or experience)
+
+22 c
+/* cathedral supported from beginning by system of flying buttresses
+series of exterior arches (flyers) & supports (buttresses)
+which permitted construction of vaulted buildings with slimmer walls
+other say no flying buttresses until 13 or 14 century, added to update
+all pre-15 century flyers replaced
+19 century paint removed, lower buttresses date from 12 century
+decoration characteristic of 12 century, out of favor by 14 century */
+line 1, violet think flying buttresses was built in 12 century since very beginning
+line n - 5, lower buttresses date from 12 century
+
+23 e
+'other people think no flying buttresses until 13 or 14 century
+added to update building aesthetically & correct structural flaws'
+aesthetics were out of date = architectural style outmoded
+
+24 a
+line n - 4, lower flyer have zigzag decoration, which was characteristic
+of 12 century & out of favor by 14 century
+since all flyers before 15 century replaced, zigzag decorations
+can indicate only flyers were present in 12 century if decorations
+accurately reproduce decorations that existed on original flyers
+
+25 c
+passage concludes survival rate of lobster larvae go up
+lobster population is going to increase
+since warm water grow faster to be less vulnerable to cod 鳕鱼 predation
+threat to population: since speed up growth, can be legal catch
+before reproductive maturity
 
 669
 1 c
@@ -252,3 +282,30 @@ t + 3 < -5 or t + 3 > 5
 t < -8 or t > 2
 a, -9 < -8
 f, 3 > 2
+
+680
+1 a
+2 d
+3 b
+4 c
+5 d
+6 c
+7 c
+8 c
+9 b
+10 d
+11 b
+12 156
+13 b
+14 60
+15 b c
+16 c
+17 d
+18 c
+19 c
+20 11 / 17
+21 b
+22 a
+23 e
+24 b d e
+25 b, (3 / 7)(2 / 6)(1 / 5) = 1 / 35
