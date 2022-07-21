@@ -114,6 +114,48 @@ line 6, list of earlier works 'by the author' found on title pages
 'by the author' is in quotation marks
 inclusion of works not written by the author in the list
 
+654
+1 d
+2 c
+3 d
+4 d
+5 a d
+6 b e
+7 b f g
+8 c e g
+
+environ of cur usa shaped history & culture of indigenous people
+environ condition & droughts -> disappearances & migrations of population
+examine relationship between environ var & sociocultural change
+reconstructed climatic, vege, erosional cycles of past centuries
+impossible to provide a single, generally applicable characterization
+no simple correlation between environ process & sociocultural change or persistence
+diff response on diff climatic & environ change
+adaptive responses: increase mobility, relocation of settlement, food change
+trade with other groups
+
+9 c
+10 e
+11 d
+12 e
+13 a c
+14 e
+15 b e
+16 a b
+17 b e
+18 c e
+19 a c
+20 d
+21 d
+22 b
+23 d
+24 e
+25 b
+
+654
+error 
+
+
 669
 1 c
 2 a
