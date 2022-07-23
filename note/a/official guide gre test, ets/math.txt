@@ -1,9 +1,15 @@
+185
+if(x.size == y.size)
+  avg = (2 / 3)x + y / 3 = (2 / 3)25000 + 35000 / 3 = 28333
+avg < 28333 since x.size > 2y.size
+
 186
 which of following could be unit digits of 57 ^ n, where n is a positive integer?
 unit digit = 个位数 = rightmost digit
 57 ^ n unit digit = 7 ^ n unit digit
 57 ^ n = 7 ^ n  mod 10
 since
+57 ^ 1 = 57, 7 ^ 1 = 7
 57 ^ 2 = 3249, 7 ^ 2 = 49    
 57 ^ 3 = 185193, 7 ^ 3 = 343 
 57 ^ 4 = 10556001, 7 ^ 4 = 2401
@@ -12,4 +18,9 @@ repeat
 7 ^ 5 = 16807
 7 ^ 6 = 117649
 7 ^ 7 = 823543
-...
+7 ^ 8 = 5764801
+
+214
+increasing, first quartile 四分位 = q_{0.25}
+
+224
