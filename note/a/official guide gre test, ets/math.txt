@@ -24,3 +24,177 @@ repeat
 increasing, first quartile 四分位 = q_{0.25}
 
 224
+set 1
+1 a
+2 c
+3 a /* 2500 / 125000 = 0.02, 160000 * 0.02 = 3200 */
+4 d
+5 b /* s = r + 2, t = r + 4, r + s + 1 = r + (r + 2) + 1 = 2r + 3 
+s + t - 1 = (r + 2) + (r + 4) - 1 = 2r + 5 */
+6 a
+7 c
+8 d
+9 a
+10 c
+11 a
+12 10
+13 13
+14 a b c
+
+224
+pass
+
+231
+set 2
+1 c /* v_r = x / 30, v_s = x / 48 
+3h r: (3)(60)(x / 30) = 6x
+4h s: (4)(60)(x / 40) = 6x */
+2 b /* mu = 4.9, med = (5 + 6) / 2 = 5.5 */
+3 d
+4 b
+5 d
+6 d
+7 d
+8 e
+9 c /* (3 * 0.08 + 7 * 0.18) / (3 + 7) = 0.15 */
+10 c /* ((700 - 120) / 700)((699 - 120) / 699) = 0.686 */
+11 81 /* 18 * 12 - 15 * 9 = 81 */
+12 3 / 4 /* mid = (2, 4.5), x int = (-4, 0) 
+slope = (0 - 4.5) / (-4 - 2) = 3 / 4 */
+13 b c
+sum of the lengths of any two sides of a triangle is greater than the length of the third side
+https://www.toppr.com/ask/en-us/question/prove-that-sum-of-any-two-sides-of-a-triangle-is-greater-than-the-third/
+14 a b c
+
+231
+long time
+9
+
+231
+error
+1
+5
+11
+
+231
+1 a /* v_r = x / 30, v_s = x / 48 
+3h r: (3)(60)(x / 30) = 6x
+4h s: (4)(60)(x / 48) = 5x
+6x > 5x */
+5 c /* y students not from college c = y students from college other than c 
+total = x student from college c + y students from college other than c + not student
+not student = 9000 - x - y */
+11 216
+'garden with walkway around it' = garden is inside small rectangle
+(18 + 2 * 3) * (12 + 2 * 3) - 18 * 12 = 216
+
+237
+1 b 
+area = |u||v|sin(a) = 6 * 4 * sin(55)
+sin(55) < sin(90) = 1
+area < 24
+https://en.wikipedia.org/wiki/Determinant
+height < 6, since 6 is hypotenuse
+2 a
+skew to right, mean is pulled to right
+mean > median
+https://opentextbc.ca/introbusinessstatopenstax/chapter/skewness-and-the-mean-median-and-mode/#:~:text=To%20summarize%2C%20generally%20if%20the,is%20less%20than%20the%20mean.
+3 a
+4 a 
+a: 1.1l * 0.9w = 0.99lw
+b: 1.2l * 0.8w = 0.96lw
+5 d
+6 c
+7 c
+8 c
+x >= 11 / 21
+9 b
+sum = 60x
+mean = 60x / 4 = 15x
+10 c 
+len(op) = sqrt{(2 - 0)^2 + (4 - 0)^2} = sqrt{20}
+c, len(qr) = sqrt{(8 - 4)^2 + (6 - 4)^2} = sqrt{20}
+11 a
+a = p r^2 = k(2pr)^2 = 4k p^2 r^2
+p = 4k p^2
+1 / p = 4k
+1 / 4p = k
+12 
+s_n = n (a_1 + a_n) / 2
+a_1 = 1 - 1 / 3 = 2 / 3
+a_{20} = 1 / 20 - 1 / 22 = 1 / 220
+s_{20} = 20(2 / 3 + 1 / 220) / 2 
+= 443 / 66
+13 1.29
+(1 + 21/4 + 10 + 12 + 63/4) / 34 = 22 / 17 = 1.29
+14
+15 
+
+237
+long time 
+10
+12
+14
+15
+
+237
+error 
+3
+5
+10
+12
+14
+15
+
+237
+3 d
+x = 2, 3^3 = 27 > 4^2 = 16
+x = 4, 3^5 = 243 < 4^4 = 256
+
+3 ^ {x + 1} ? 4 ^ x
+3(3 ^ x) ? 4 ^ x
+3 ? (4 / 3) ^ x
+lim_{x -> inf} (4 / 3) ^ x = inf
+but if x = 2, 3 > (4 / 3) ^ 2 = 16 / 9 = 1.78
+
+5 a
+(60 + 90) / 2 = 75th percentile
+based on normal curve, p(q_{0.6} <= x <= q_{0.75}) < p(q_{0.75} <= x <= q_1)
+since area near mean is bigger
+area between 650 and 750 > area between 750 and 850
+so value is closer to 650 than 850
+so q_{0.75} < 750
+
+10 e
+triangle pqm congruent to orn
+|pm| = 8 - 2 = 6 = |on| = horizontal length
+|mq| = 6 - 4 = 2 = |nr| = vertical length
+
+12 b
+s_2 = (1 - 1 / 3) + (1 / 2 - 1 / 4) 
+s_3 = (1 - 1 / 3) + (1 / 2 - 1 / 4) + (1 / 3 - 1 / 5) = (1 + 1 / 2) - (1 / 4 + 1 / 5)
+s_4 = (1 + 1 / 2) - (1 / 4 + 1 / 5) + (1 / 4 - 1 / 6) = (1 + 1 / 2) - (1 / 5 + 1 / 6)
+
+s_n = (1 + 1 / 2) - (1 / (n + 1) + 1 / (n + 2))
+s_{20} = (1 + 1 / 2) - (1 / 21 + 1 / 22)
+
+14 a c
+least common multiple 
+24 = (2 ^ 3)(3)
+108 = (2 ^ 2)(3 ^ 3)
+lcm(24, 108) = (2 ^ 3)(3 ^ 3)
+
+n ^ 2 = i * (2 ^ 3)(3 ^ 3)
+n ^ 2 is a multiple of (2 ^ 3)(3 ^ 3)
+prime factorization of a square integer must have even exponents
+(2 ^ 4)(2 ^ 4) is least square integer that is a multiple of (2 ^ 3)(3 ^ 3)
+if n ^ 2 = (2 ^ 4)(3 ^ 4), n = (2 ^ 2)(3 ^ 2) = 36
+S = {36i : i in Z}
+so 36 and 12 are divisors of every integer in S
+
+15 a
+gentoo:              <--- 15.4 --->
+chinstrap:  <--- 13.2 ---><- 5.8 ->
+tallest is gentoo
+shortest is chinstrap
+all range = 13.2 + 5.8 = 19
