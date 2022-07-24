@@ -232,3 +232,9 @@ humanity: non / all = (0.14 * 250) / (0.14 * 250 + 0.17 * 200)
 luck 
 5 e
 avg diff = (v(2009) - v(2000)) / 9 = (9 - 3.2) / 9 = 0.64
+
+354 
+p = principal
+annual interest of r percent: v = p(1 + rt / 100)
+compound interest compounded annually: v = p(1 + r / 100) ^ t
+compounded n times per year: v = p(1 + r / (100n)) ^ {nt}
