@@ -18,3 +18,77 @@ S = {36i : i in Z} = {36, 72, ...}
 36 % 72 = 36, 72 is not a divisor 36, not divisor of every int 
 
 3 121
+4 11 / 17
+0.11 * 400 / (0.08 * 300 + 0.11 * 400) = 44 / (24 + 44)
+= 44 / 68 = 11 / 17
+5 
+(1 / 3 f + 2 / 9 m) / (f + m)
+6 a b c
+7 e
+before: 18 people have lower salary than m
+after: 18 + 8 = 26 people have lower salary than m
+quartile size = 88 / 4 = 22
+26 - 22 = 4 people in 2nd quartile less than m 
+m is 5th lowest in 2nd quartile
+8 d e
+9 b
+10 b d 
+11 c
+(0.08 * 3) / (0.08 * 3 + 0.18 * 7) 
+12 d
+14 / (14 + 17) = 0.45
+13 e
+(v(2009) - v(2000)) / 9 = (9 - 3.2) / 9 = 0.64
+14 b
+normal: p(sigma <= 1) = 0.68
+p(sigma <= 2) = 68 + 27 = 0.95
+(1 - p(sigma <= 2)) / 2 = 0.025 < 1 / 6
+15 
+16 c
+1.12 * 50 - 10 + 1 = 47
+47 / 50 = 0.94
+17 b
+18 d
+19 b
+20 d
+21 b
+22 d
+23 a
+24 b d e
+25 b c
+
+error
+5 8 / 29
+forget to look at picture
+female in bio & health: (0.05 + 0.16) * 200 = 42
+male in bio & health: (0.1 + 0.08) * 250 = 45
+(1 / 3 * 42 + 2 / 9 * 45) / (42 + 45) = 8 / 29
+8 e
+d = 56 = 2 * 28 = 2 * 2 * 14
+12 e
+must find actual population, percent has diff meaning
+(0.14 * 250) / (0.14 * 250  + 0.17 * 200) = 0.51
+15 b
+(1 - x) / (x - 1) = 1 / x
+x(1 - x) = x - 1
+x - x ^ 2 - x + 1 = 0
+- x ^ 2 + 1 = 0
+x ^ 2 - 1 = 0
+(x + 1)(x - 1) = 0
+x = +-1
+since (1 - x) / (x - 1) has x - 1 in denominator
+x != 1
+so x = -1 < -1 / 2
+
+19 a
+mean not robust, affected by extrema
+skew right, mean is dragged to right, greater than median
+for a right skewed distribution, mean is greater than the median
+
+long time
+18 d
+3 ^ {x + 1} ? 4 ^ x
+3 * 3 ^ x ? 4 ^ x
+3 * (3 / 4) ^ x ? 1
+lim_{x -> inf} 3 * (3 / 4) ^ x < 1
+but if x = 2, 3 * (3 / 4) ^ 2 = 27 / 16 > 1
