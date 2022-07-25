@@ -45,3 +45,25 @@ inert = static, lifeless
 zealot = a person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals
 8 b f
 square with = be compatible or fit with something
+
+15
+1 b
+2 b
+3 b d
+4 c e
+lethargy 昏睡 a lack of energy and enthusiasm
+fervor 热情 intense and passionate feeling
+indiscriminate = equal to all
+5 c f
+6 a d h
+7 a c 
+8 a f  
+pugnacious 爱争执, 爱滋事 eager or quick to argue, quarrel, or fight
+truculent 爱争吵, 粗暴, 好斗, 寻衅 eager or quick to argue or fight; aggressively defiant
+9 d e
+10 c f
+
+15
+error
+9 d f 
+heterogeneity (异质性, diverse in character or content) = diversity
