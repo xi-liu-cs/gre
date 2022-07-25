@@ -5,4 +5,16 @@ p = price
 0.04p = 1.04p - p
 0.27 < 0.04p < 0.38
 
-2 
+2 a c
+24 = (2 ^ 3)(3)
+108 = (2 ^ 2)(3 ^ 3)
+lcm(24, 108) = (2 ^ 3)(3 ^ 3)
+n ^ 2 is multiple of (2 ^ 3)(3 ^ 3)
+n ^ 2 = i * (2 ^ 3)(3 ^ 3)
+exponent need to be even to have a integer square root
+n ^ 2 = (2 ^ 4)(3 ^ 4)
+n = (2 ^ 2)(3 ^ 2) = 36
+S = {36i : i in Z} = {36, 72, ...}
+36 % 72 = 36, 72 is not a divisor 36, not divisor of every int 
+
+3 121
