@@ -67,3 +67,35 @@ truculent 爱争吵, 粗暴, 好斗, 寻衅 eager or quick to argue or fight; ag
 error
 9 d f 
 heterogeneity (异质性, diverse in character or content) = diversity
+
+18 
+1 b
+2 b
+conciliatory 调解, 抚慰, 和解 action of stopping someone from being angry; placation
+mercenary 唯利是图, 只为金钱, 雇佣兵 making money at the expense of ethics
+paradigmatic 典型, 范例 typical example
+contentious 有争议, 可能引起争论, 爱争论, 充满争吵 cause an argument, controversial
+3 b
+forbearance 忍让, 宽容 patient self-control; restraint and tolerance
+lucid 清醒, 表达清楚, 易懂 clearly, easy to understand
+4 b d
+5 b e g
+6 c f h
+7 b c
+8 b d 
+9 b e
+10 b f
+
+18
+error
+2 c
+in terms of which all are understood = 以B的角度来理解A
+against which all are measured = 以B为标准来衡量A
+
+6 c e h
+absurd = wildly unreasonable, illogical, or inappropriate
+arousing amusement or derision, ridiculous
+
+7 a c
+although ... revision,
+remained = no change = robust
