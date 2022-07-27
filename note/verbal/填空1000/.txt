@@ -99,3 +99,49 @@ arousing amusement or derision, ridiculous
 7 a c
 although ... revision,
 remained = no change = robust
+
+21
+1 a
+2 b
+ballyhoo 大吹大擂 praise or publicize extravagantly
+droll 逗人发笑的人, 滑稽演员, 小丑 curious or unusual in a way that provokes dry amusement
+3 a d
+4 a e
+parochial 只关心本地区, 教区, 堂区, 地方观念 limited or narrow outlook or scope
+5 b e
+6 a e i
+7 a f
+8 e f
+9 a
+10 d e
+
+21 
+error
+9 a b
+tribute 致敬, 颂词, (良好效果或影响的)显示 an act, statement, or gift that is intended to show gratitude, respect, or admiration
+
+24
+1 d
+2 a
+3 a f
+4 a d
+skirt 绕开, 回避 attempt to ignore; avoid dealing with
+revelation 启示, 泄露, 揭发 making known of something that was previously secret or unknown
+5 b f g
+inveterate 积习难改, 有…瘾, 长期形成, 根深蒂固 habit, activity, or interest that is long-established and unlikely to change
+6 c d h
+7 b e
+8 c f
+9 d f
+10 d f
+
+24
+error
+3 a e
+potency 影响力, 支配力, 效力 = discretionary 自由决定, 酌情行事, 便宜行事 freedom to decide what should be done in a particular situation
+bureaucracy 官僚 concerned with procedure at the expense of efficiency or common sense
+
+10 b d
+politically neutral
+expel force out or eject
+oust drive out or expel 
