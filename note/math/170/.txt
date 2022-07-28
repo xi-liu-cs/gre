@@ -92,3 +92,196 @@ long time
 3 * (3 / 4) ^ x ? 1
 lim_{x -> inf} 3 * (3 / 4) ^ x < 1
 but if x = 2, 3 * (3 / 4) ^ 2 = 27 / 16 > 1
+
+26 b
+(3 / 7)(2 / 6)(1 / 5) = 1 / 35
+
+27 a
+female: <- 13.2 ->
+male:    <- 9.6 -><- 5.8 ->
+range = 13.2 + 5.8 = 19
+
+28 153 / 190
+(18 / 20)(17 / 19) = 153 / 190
+
+29 216
+(18 + 6) * (12 + 6) - 18 * 12 = 216
+
+30 3 / 4  
+mid = (2, 4.5)
+x int = (-4, 0)
+slope = (4.5 - 0) / (2 - (-4)) = 3 / 4
+
+31 1.29
+(1 + 21 / 4 + 10 + 12 + 63 / 4) / (2 + 7 + 16 + 9) = 22 / 17 = 1.29
+
+32 b 
+1 / ((2 ^ 11)(5 ^ 11)(5 ^ 6))
+= 1 / ((10 ^ 11)(5 ^ 6))
+= 5 ^ -6 * 10 ^ -11
+= 6.4 * 10 ^ -5 * 10 ^ -11
+= 6.4 * 10 ^ -16
+
+33 a d 
+30 60 90
+
+34 a
+40v1 = 50v2
+v2 = 4 / 5 v1
+1.2v2 = 1.2(4 / 5) v1 = 0.96v1
+
+35 d
+
+36 c
+area = bh
+1 / 2 b = 6 - 2 = 4
+1 / 2 h = 6 - 2 = 4
+bh = 8 ^ 2 = 64
+
+37 a
+2 digit: [10, 99]
+unit digit equal tens digit: [11, 22, ..., 99], size = 9
+(99 - 10 + 1) - 9 = 81
+
+38 d
+
+39 b
+1 * 8 = 8
+4 * 2 = 8
+
+40 b
+41 d
+42 60
+120 / 20 = 60
+43 b 
+4 16 64 256 1024 4096
+44 d
+45 
+
+26
+error
+35 a
+c < d, z < w
+c + z < d + w
+
+38 b
+only g: r(1 - s)
+only h: (1 - r)s
+either occur but not both = r(1 - s) + (1 - r)s 
+= r - rs + s - rs
+= r + s - 2rs
+
+40 c 
+10 ^ 32 + 2 (mod 11)
+= 100...00 + 2 (mod 11)
+=  99...99 + 3 (mod 11) 
+= 0 + 3 (mod 11)
+= 3
+
+42 6000
+forget units
+120 / 20 * 1000 = 6000
+
+44 c
+if(r is odd)
+{
+  t is even
+  p = odd ^ 2 + even = odd + even = odd
+  (-1) ^ p = (-1) ^ odd = -1
+}
+if(r is even)
+{
+  t is odd
+  p = even ^ 2 + odd = even + odd = odd
+  (-1) ^ p = (-1) ^ odd = -1
+}
+
+45 7
+150 mod 3 = 0
+154 mod 3 = 1
+150th term is last term of {1, -3, 4}
+154th term is 1st term of {1, -3, 4}
+150th -> 154th: 4 + 1 + -3 + 4 + 1 = 7
+
+26
+long time
+26 1 / 35 
+total points / # points per square = 8 / 4 = 2
+2 / c(8, 4) = 2 / 70 = 1 / 35
+
+27 a
+let x be lowest height of female
+female.tallest = x + 13.2
+male.tallest = x + 13.2 + 5.8 = x + 19 /* assume choice a */
+all.range = x + 19 - x = 19
+
+32 b 
+1 / ((2 ^ 11)(5 ^ 11)(5 ^ 6))
+= 1 / ((10 ^ 11)(5 ^ 6))
+= 5 ^ -6 * 10 ^ -11
+= 5 ^ {-1 * 6} * 10 ^ -11
+= 0.2 ^ 6 * 10 ^ -11
+= 6.4 * 10 ^ -5 * 10 ^ -11
+= 6.4 * 10 ^ -16
+
+46 2500
+i = 6000(3 / 8) = 2250
+m = 2p
+2p + p = 6000 - 2250 = 3750
+3p = 3750
+p = 1250
+m = 2(1250) = 2500
+
+47 22 
+a = ahead
+b = behind
+a - 3 = 8
+a + b + 1 = 11 + 10 + 1 = 22
+
+48 9 * 10 ^ -6 
+x * 10 ^ 6 = 9 * 1 / x
+x ^ 2 = 9 / (10 ^ 6) = 9 * 10 ^ -6
+
+49 15.8 
+1.1j = 0.95a
+a = 1.157894j
+15.8 percent
+
+50 a  
+51 a
+52 b
+17.5 - 12.1 = 5.4
+5.4 / (1.5 + 3) = 1.2
+17.5 - 3(1.2) = 13.9
+53
+54 d
+(5.8 - 4.5) / 4.5 = 0.2889
+55 a
+900 / 42 = 21
+56 
+
+46
+error
+48
+x * 10 ^ 6 = 9 / x
+x ^ 2 = 9 / (10 ^ 6) = 9 * 10 ^ -6
+x = sqrt{9 * 10 ^ -6} = 3 * 10 ^ -3 = 0.003
+
+51 e
+https://en.wikipedia.org/wiki/Variance
+var(X + a) = var(X)
+var(aX) = a ^ 2 var(x)
+add constant a to all int has no change to var
+mul constant a becomes mul a ^ 2 to var
+so choose biggest coefficient to have biggest standard deviation
+
+53 c d e f g h
+1993.revenue = 5.75
+num card sold = 5.75 / 1.25 = 4.6
+4.6 - 3.9 = 0.7 billion = 700 million
+choose everything except christmas & valentine
+
+56 e
+155 * 0.4 = 62 cards
+price p per card: 1 < p < 8
+revenue: 62(1) < r < 62(8) = 496
