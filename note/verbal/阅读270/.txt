@@ -46,3 +46,52 @@ after 1800: focus on technique, 'technicians who did not care about visual effec
 'boundary puzzled mapmakers in 17th century' (passage) 
 = 'inconsistent with mapmaker prior 1800 understand their own work' (question)
 }
+
+5 5
+1 a
+2 d
+
+6 6
+1 d
+2 b
+
+7 7
+1 d
+2 a 
+
+7 8
+1 a
+2 b
+3 e
+
+8 9
+1 e
+2 d
+
+9 10
+1 c
+2 e
+
+spent 30 min, only finish 13
+error
+{
+5 5
+1 b
+'20 century elite think 19 century fiction didactic, so they do not read them' /* 20 century people do not like didactic */ (passage sentence 1)
+'19 century praise didactic' (passage sentence 3)
+so choice b, contrast between 20 (!didactic) & 19 (didactic)
+/* didactic 说教, 教诲, 教导, 好教训人 = intended to teach, in having moral instruction as an ulterior motive
+canonize 正式宣布(某人)为圣徒, 宣圣, 列入圣品 = treat or regard as being above reproach or of great significance
+revile 辱骂, 斥责 criticize in an abusive or angrily insulting manner */
+
+7 8
+3 b
+'european state emerged through rise of nations over a number of other ethnic groups' (passage sentence 2)
+= 'distinct ethnic groups' (question)
+/* misnomer 使用不恰当不准确名称, 用词不当 a wrong or inaccurate name or designation */
+
+9 10
+2 d
+'unlike scholarship before 1980, recent scholarship analyzes novels in context of tumultuous times' (sentence 1)
+= 'after 1980, scholarship shifted toward greater emphasis on historical context' (question)
+}
