@@ -1,1 +1,48 @@
+2 
+1 a
+2 b
 
+3
+1 a
+2 b
+3 b
+
+4
+1 c
+2 e
+
+5 4
+1 d
+2 a b 
+
+spent 30 min, only finish 10
+error
+{
+3 
+1 d
+'biologists skeptical chimpanzee growth rate is humanlike' (passage) 
+= 'biologists unconvinced by idea that apes experience adolescent growth' (question)
+3 c
+'human adolescent growth spurt physically obvious, unlike chimpanzee growth that detectable only through math analysis' (passage)
+= 'human adolescent growth spurt is normally detectable without assistance of sophisticated math analysis' (question)
+
+4
+2 d
+last sentence 'investigate biases of earlier texts' (passage) = 'examining older anthropological texts for unacknowledged biases' (question)
+
+5
+1 e
+contradiction = a & !a
+'criticize society' & 'content to leave society unchanged' (passage) 
+'travel alone considered 'radical' act' & 'traveler hold 'conventional' views'(question)
+contradiction = criticize & content, radical & conventional
+}
+slow
+{
+2
+1 a
+before 1800: focus on beauty, 'old is beautiful'
+after 1800: focus on technique, 'technicians who did not care about visual effects'
+'boundary puzzled mapmakers in 17th century' (passage) 
+= 'inconsistent with mapmaker prior 1800 understand their own work' (question)
+}
