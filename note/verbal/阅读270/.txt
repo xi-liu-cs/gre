@@ -95,3 +95,89 @@ revile 辱骂, 斥责 criticize in an abusive or angrily insulting manner */
 'unlike scholarship before 1980, recent scholarship analyzes novels in context of tumultuous times' (sentence 1)
 = 'after 1980, scholarship shifted toward greater emphasis on historical context' (question)
 }
+
+10 11
+1 e
+2 e
+
+10 12
+1 a
+2 c
+
+11 13
+1 contemporary ... non black audience
+2 e
+3 c
+
+12 14
+1 d
+2 b 
+
+12 15
+1 b
+2 d
+
+13 16
+1 d
+2 a b 
+
+14 17
+1 a 
+2 c
+
+spent 30 min, only finish 14
+error
+10 11
+1 d
+'e's subjects document changing sense of f identity in us, as b did' (passage last sentence) = 'both b and e represent how life in us affected immigrants' sense 
+of f identity'
+
+10 12
+1 b
+'deserve more attention for importance in helping individuals forge bonds of community' (passage line n - 3)
+= 'insufficiently appreciated for their role' (choice b)
+/* relegation 保级, 降级 action of assigning to an inferior rank or position */
+
+2 d
+'limit public life to formal political participation' (passage last sentence)
+means that political participation is a form of public life
+'voluntary association kinds of experience deserve attention for their importance' 
+(passage n - 3)
+= 'political participation is significant component of public life'
+
+12 14
+1 a
+'earlier authors assumed intro 'latin texts' taught children unknown 
+language, intro english texts should teach english
+as if it were an unknown language' (passage last sentence)
+/* primer 入门书, 识字课本 elementary textbook */
+
+12 15
+1 c
+'even within limits', 
+'islands are nature's own isolated laboratories' (passge)
+= negation of 'movement of species into ecosystem from outside' (question)
+/* dune (风吹积成的)沙丘 a mound or ridge of sand or other loose sediment formed by the wind, especially on the sea coast or in a desert
+porous 多孔, 透水, 透气 having minute spaces or holes through which liquid or air may pass
+frontier 边界, 边境, 国界 a line or border separating two countries
+archipelago 群岛, 列岛, 群岛周围海 group of islands, sea or water stretch */
+
+13 16
+1 a
+'b's cubism can be studied as an inversion of traditional norms using
+same tools, matisse's solutions unrelated to any system of ideas' (line n - 3)
+= 'b's cubism lends itself more readily to systematic analysis
+than m's work' (question)
+/* immediacy 直接, 即时, 迫切 quality of bringing one into direct and instant involvement with something, giving rise to a sense of urgency or excitement 
+cubism 立体主义, 立体派 perspective with a single viewpoint was abandoned and use was made of simple geometric shapes, interlocking planes, and, later, collage
+iconographic 图像 visual images and symbols used in a work of art */
+
+14 17
+1 b
+'fundamentally estranged from nation by dominant culture unsympathetic
+to black women' (last sentence) = 'discriminatory attitude'
+/* estrange 疏远, 离间 cause (someone) to be no longer close or affectionate to someone, alienate */
+
+2 a
+'scope' (line 3) = 'take up' (question)
+/* take up 占据, 占有 become interested or engaged in a pursuit */
